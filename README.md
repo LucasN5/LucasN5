@@ -3,9 +3,9 @@
 <h2>:sparkles: About me: </h2>
 
 - 🤙 Front-end Developer 
-- 🧑‍🎓 Science Computer since 2020
+- 🧑‍🎓 Computer Scientist since 2020
 - 🚀 "try your best everyday"
-- ❤️ Pronouns: he | his
+- ❤️ Pronouns: he | him
 
 <h2>🌐 Socials:</h2>
   
