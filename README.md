@@ -5,7 +5,7 @@
 - 🤙 Front-end Developer 
 - 🧑‍🎓 Computer Scientist since 2020
 - 🚀 "try your best everyday"
-- ❤️ Pronouns: he | him
+
 
 <h2>🌐 Socials:</h2>
   
